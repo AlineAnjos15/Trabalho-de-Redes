@@ -1,4 +1,4 @@
-# Trabalho de Redes de Computadores (RC)
+# Trabalho de Redes de Computadores 
 Grupo : Alexandra Victoria Azevedo Araujo, Aline Barros dos Anjos, Emanuela Maria Cavalcanti Alves, Iris de Souza Kemper e Jeovana Bernardino da Silva
 3º T.I-M
 
@@ -7,7 +7,7 @@ Descrição do jogo : Este projeto traz uma versão do jogo Pedra, Papel e Tesou
 Como executar o projeto : há duas maneiras desse projeto ser executado, as maneiras são as seguintes :
 1º maneira : 
 Primeiro, localize a pasta principal do seu jogo no computador. Depois, abra o Prompt de Comando (ou terminal). 
-No terminal, use o comando cd para navegar até a pasta `bin` do projeto, onde estão os arquivos compilados. Por exemplo: 
+No terminal, use o comando cd para navegar até a pasta bin do projeto, onde estão os arquivos compilados. Por exemplo: 
 cd C:\Users\user\eclipse-workspace\PedraPapelTesoura_Redes\bin
 
 Uma vez na pasta bin, você pode iniciar o jogo com o seguinte comando:
