@@ -23,7 +23,7 @@ Como jogar :
 - Cada jogador executa o cliente e recebe um número de identificação.
 - Quando todos estiverem conectados, cada jogador deve digitar PRONTO para iniciar.
 - O jogo possui 5 rodadas.
-- Após a quinta rodada pergunta~se ao jogadoe se ele deseja jogar novamente
+- Após a quinta rodada pergunta-se ao jogado se ele deseja jogar novamente
 - Em cada rodada, os jogadores escolhem:
     - 1 Pedra
     - 2 Papel
